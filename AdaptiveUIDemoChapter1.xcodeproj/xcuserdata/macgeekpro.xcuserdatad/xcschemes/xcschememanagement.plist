@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>AdaptiveUIDemoChapter1 copy.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>AdaptiveUIDemoChapter1.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -13,6 +18,11 @@
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>652434271C52178B004CBECB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6524343D1C521855004CBECB</key>
 		<dict>
 			<key>primary</key>
 			<true/>

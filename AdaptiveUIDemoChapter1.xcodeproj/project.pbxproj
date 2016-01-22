@@ -22,6 +22,7 @@
 		652434321C52178B004CBECB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		652434351C52178B004CBECB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		652434371C52178B004CBECB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6524344A1C521856004CBECB /* AdaptiveUIDemoChapter1 copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "AdaptiveUIDemoChapter1 copy-Info.plist"; path = "/Users/macgeekpro/Documents/Code/Swift/Appcoda/Immediate/AdaptiveUIDemoChapter1/AdaptiveUIDemoChapter1 copy-Info.plist"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +41,7 @@
 			children = (
 				6524342A1C52178B004CBECB /* AdaptiveUIDemoChapter1 */,
 				652434291C52178B004CBECB /* Products */,
+				6524344A1C521856004CBECB /* AdaptiveUIDemoChapter1 copy-Info.plist */,
 			);
 			sourceTree = "<group>";
 		};
